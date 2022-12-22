@@ -1,0 +1,27 @@
+Please choose from the following
+1) Let the user enter a length
+2) Let the computer generate a length
+3) Quit
+Choice --> 1
+
+Please enter the length from the center to the vertex 5.5
+The value of length was: 5.5
+The area of the pentagon is: 71.924
+
+Please choose from the following
+1) Let the user enter a length
+2) Let the computer generate a length
+3) Quit
+Choice --> 2
+
+Please enter a number greater than 0 100
+The value of length was: 32.1
+The area of the pentagon is: 2450.173
+
+Please choose from the following
+1) Let the user enter a length
+2) Let the computer generate a length
+3) Quit
+Choice --> 3
+
+Thank you for playing
