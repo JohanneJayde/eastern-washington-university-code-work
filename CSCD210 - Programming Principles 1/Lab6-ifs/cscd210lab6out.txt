@@ -1,0 +1,59 @@
+ 
+  ----jGRASP exec: java lab6.cscd210lab6.CSCD210Lab6
+ Please enter a number greater than 0: 67
+ Menu choices are:    
+ 1) Enter a new number
+ 2) Print if the number is even/odd/zero
+ 3) Enter two strings and determine the strings order
+ 4) Quit
+ Choice ---> 1
+ Please enter a number greater than 0: 97
+ Menu choices are:    
+ 1) Enter a new number
+ 2) Print if the number is even/odd/zero
+ 3) Enter two strings and determine the strings order
+ 4) Quit
+ Choice ---> 2
+ the number is odd
+ Menu choices are:    
+ 1) Enter a new number
+ 2) Print if the number is even/odd/zero
+ 3) Enter two strings and determine the strings order
+ 4) Quit
+ Choice ---> 1
+ Please enter a number greater than 0: 76
+ Menu choices are:    
+ 1) Enter a new number
+ 2) Print if the number is even/odd/zero
+ 3) Enter two strings and determine the strings order
+ 4) Quit
+ Choice ---> 2
+ the number is even
+ Menu choices are:    
+ 1) Enter a new number
+ 2) Print if the number is even/odd/zero
+ 3) Enter two strings and determine the strings order
+ 4) Quit
+ Choice ---> 3
+ Please enter a string of four characters or more: Hello
+ Please enter another string of four characters or more: Nickle
+ Hello, Nickle
+ Menu choices are:    
+ 1) Enter a new number
+ 2) Print if the number is even/odd/zero
+ 3) Enter two strings and determine the strings order
+ 4) Quit
+ Choice ---> 3
+ Please enter a string of four characters or more: hello
+ Please enter another string of four characters or more: Abigail
+ Abigail, hello
+ Menu choices are:    
+ 1) Enter a new number
+ 2) Print if the number is even/odd/zero
+ 3) Enter two strings and determine the strings order
+ 4) Quit
+ Choice ---> 4
+ Good Bye
+ 
+  ----jGRASP: operation complete.
+ 

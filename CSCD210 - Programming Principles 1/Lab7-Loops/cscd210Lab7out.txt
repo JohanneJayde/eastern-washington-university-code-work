@@ -1,0 +1,85 @@
+ Please enter a number between -10000 and 10000: -5000
+ Menu choices are:    
+ 1) Enter a new number
+ 2) Print the number backwards
+ 3) Print if the number is light or heavy
+ 4) Print the primes from 2 to the entered number
+ 5) Quit
+ Choice ---> 1
+ Please enter a number between -10000 and 10000: -6000
+ Menu choices are:    
+ 1) Enter a new number
+ 2) Print the number backwards
+ 3) Print if the number is light or heavy
+ 4) Print the primes from 2 to the entered number
+ 5) Quit
+ Choice ---> 2
+ -0006
+ Menu choices are:    
+ 1) Enter a new number
+ 2) Print the number backwards
+ 3) Print if the number is light or heavy
+ 4) Print the primes from 2 to the entered number
+ 5) Quit
+ Choice ---> 3
+ Please enter another numCopy1ber between -10000 and 10000: 4000
+ The num is light
+ Menu choices are:    
+ 1) Enter a new number
+ 2) Print the number backwards
+ 3) Print if the number is light or heavy
+ 4) Print the primes from 2 to the entered number
+ 5) Quit
+ Choice ---> 5
+ Good Bye
+
+  ----jGRASP exec: java lab7.cscd210lab7.CSCD210Lab7
+ Please enter a number between -10000 and 10000: -6000
+ Menu choices are:    
+ 1) Enter a new number
+ 2) Print the number backwards
+ 3) Print if the number is light or heavy
+ 4) Print the primes from 2 to the entered number
+ 5) Quit
+ Choice ---> 4
+ -2 -2 -2 -2 -3 -5 -5 -5 
+ Menu choices are:    
+ 1) Enter a new number
+ 2) Print the number backwards
+ 3) Print if the number is light or heavy
+ 4) Print the primes from 2 to the entered number
+ 5) Quit
+ Choice ---> 5
+ Good Bye
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab7.cscd210lab7.CSCD210Lab7
+ Please enter a number between -10000 and 10000: -6953
+ Menu choices are:    
+ 1) Enter a new number
+ 2) Print the number backwards
+ 3) Print if the number is light or heavy
+ 4) Print the primes from 2 to the entered number
+ 5) Quit
+ Choice ---> 1
+ Please enter a number between -10000 and 10000: 25
+ Menu choices are:    
+ 1) Enter a new number
+ 2) Print the number backwards
+ 3) Print if the number is light or heavy
+ 4) Print the primes from 2 to the entered number
+ 5) Quit
+ Choice ---> 4
+ 5 5 
+ Menu choices are:    
+ 1) Enter a new number
+ 2) Print the number backwards
+ 3) Print if the number is light or heavy
+ 4) Print the primes from 2 to the entered number
+ 5) Quit
+ Choice ---> 5
+ Good Bye
+ 
+  ----jGRASP: operation complete.
+ 
