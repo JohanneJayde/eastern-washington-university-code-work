@@ -1,0 +1,79 @@
+ 
+  ----jGRASP exec: java lab5.cscd210lab5.CSCD210Lab5
+ Please choose from the following
+ 1) Let the user enter a length
+ 2) Let the computer generate a length
+ 3) Quit
+ Choice --> 1
+ 
+ Please enter the length from the center to the vertex: 5.5
+ The value of the length was: 5.5
+ The area of the pentagon is: 71.924
+ Please choose from the following
+ 1) Let the user enter a length
+ 2) Let the computer generate a length
+ 3) Quit
+ Choice --> 2
+ 
+ Please enter a number greate than 0: 100
+ The value of the length was: 27.4
+ The area of the pentagon is: 1789.651
+ Please choose from the following
+ 1) Let the user enter a length
+ 2) Let the computer generate a length
+ 3) Quit
+ Choice --> 3
+ 
+ Thank you for playing
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab5.cscd210lab5.CSCD210Lab5
+ Please choose from the following
+ 1) Let the user enter a length
+ 2) Let the computer generate a length
+ 3) Quit
+ Choice --> 2
+ 
+ Please enter a number greate than 0: 50
+ The value of the length was: 13.4
+ The area of the pentagon is: 429.889
+ Please choose from the following
+ 1) Let the user enter a length
+ 2) Let the computer generate a length
+ 3) Quit
+ Choice --> 3
+ 
+ Thank you for playing
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab5.cscd210lab5.CSCD210Lab5
+ Please choose from the following
+ 1) Let the user enter a length
+ 2) Let the computer generate a length
+ 3) Quit
+ Choice --> 1
+ 
+ Please enter the length from the center to the vertex: 10.98
+ The value of the length was: 11.0
+ The area of the pentagon is: 286.649
+ Please choose from the following
+ 1) Let the user enter a length
+ 2) Let the computer generate a length
+ 3) Quit
+ Choice --> 1
+ 
+ Please enter the length from the center to the vertex: 17.44
+ The value of the length was: 17.4
+ The area of the pentagon is: 723.168
+ Please choose from the following
+ 1) Let the user enter a length
+ 2) Let the computer generate a length
+ 3) Quit
+ Choice --> 3
+ 
+ Thank you for playing
+ 
+  ----jGRASP: operation complete.
+ 
