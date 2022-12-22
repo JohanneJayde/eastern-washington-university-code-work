@@ -1,0 +1,53 @@
+ 
+  ----jGRASP exec: java lab12.cscd210lab12.CSCD210Lab12
+ Please enter the name of the file fish.txt
+ Please choose from the following
+ 1) Print the array to the screen
+ 2) Print the array to the specified file
+ 3) Read an index and compare the two fish for equality
+ 4) Quit
+ Choice --> 1
+ brook trout - 12.65
+ 
+ rainbow trout - 1.24
+ 
+ rainbow trout - 3.45
+ 
+ walleye - 3.45
+ 
+ walleye - 5.46
+ 
+ Please choose from the following
+ 1) Print the array to the screen
+ 2) Print the array to the specified file
+ 3) Read an index and compare the two fish for equality
+ 4) Quit
+ Choice --> 2
+ Please choose from the following
+ 1) Print the array to the screen
+ 2) Print the array to the specified file
+ 3) Read an index and compare the two fish for equality
+ 4) Quit
+ Choice --> 3
+ Enter a number that is in the range of 0 - 4: 0
+ Enter a number that is in the range of 0 - 4: 0
+ The two fish are equal in both species and weight
+ Please choose from the following
+ 1) Print the array to the screen
+ 2) Print the array to the specified file
+ 3) Read an index and compare the two fish for equality
+ 4) Quit
+ Choice --> 3
+ Enter a number that is in the range of 0 - 4: 2
+ Enter a number that is in the range of 0 - 4: 3
+ The two fish are not equal
+ Please choose from the following
+ 1) Print the array to the screen
+ 2) Print the array to the specified file
+ 3) Read an index and compare the two fish for equality
+ 4) Quit
+ Choice --> 4
+ Exiting
+ 
+  ----jGRASP: operation complete.
+ 
