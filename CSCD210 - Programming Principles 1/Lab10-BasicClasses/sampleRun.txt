@@ -1,0 +1,16 @@
+ 
+  ----jGRASP exec: java lab10.cscd210lab10.CSCD210Lab10
+ Please enter the ticker MSFT
+ Please enter the company name Microsoft
+ Please enter the purchase price 123.45
+ Print using gets
+ DOW - DOW Jones Industrial Average
+ Purchase Price: 10.000000
+ 
+ Print using implicit call to toString
+ Microsoft - MSFT
+ Purchase Price: 123.45
+ 
+ 
+  ----jGRASP: operation complete.
+ 

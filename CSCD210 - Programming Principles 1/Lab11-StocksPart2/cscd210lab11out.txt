@@ -1,0 +1,103 @@
+ 
+  ----jGRASP exec: java lab11.cscd210lab11.CSCD210Lab11
+ Please enter the ticker NTDOY
+ Please enter the company name Ninentdo
+ Please enter the purchase price 51.27
+ Print using gets
+ DOW - DOW Jones Industrial Average
+ Purchase Price: 10.000000
+ 
+ Print using implicit call to toString
+ Ninentdo - NTDOY
+ Purchase Price: 51.27
+ 
+ 
+ USING SET METHODS
+ Please enter the ticker NTDOY
+ Please enter the company name Nintendo
+ Please enter the purchase price 51.27
+ 
+ Print using implicit call to toString already written in the last lab
+ Nintendo - NTDOY
+ Purchase Price: 51.27
+ 
+ CALLING THE EQUALS METHOD
+ The stocks are NOT the same
+ 
+ CALLING THE COMPARETO METHOD
+ bStock is less than or equal to aStock
+ 
+ CALLING THE HASHCODE METHOD
+ Your value will be different than mine
+ The hashCode for bStock is 995478935
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab11.cscd210lab11.CSCD210Lab11
+ Please enter the ticker MSFT
+ Please enter the company name Microsoft Inc
+ Please enter the purchase price 123.45
+ Print using gets
+ DOW - DOW Jones Industrial Average
+ Purchase Price: 10.000000
+ 
+ Print using implicit call to toString
+ Microsoft Inc - MSFT
+ Purchase Price: 123.45
+ 
+ 
+ USING SET METHODS
+ Please enter the ticker MSFT
+ Please enter the company name Microsoft
+ Please enter the purchase price 123.45
+ 
+ Print using implicit call to toString already written in the last lab
+ Microsoft - MSFT
+ Purchase Price: 123.45
+ 
+ CALLING THE EQUALS METHOD
+ The stocks are NOT the same
+ 
+ CALLING THE COMPARETO METHOD
+ aStock is less than bStock
+ 
+ CALLING THE HASHCODE METHOD
+ Your value will be different than mine
+ The hashCode for bStock is 1732851297
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab11.cscd210lab11.CSCD210Lab11
+ Please enter the ticker INT
+ Please enter the company name International World
+ Please enter the purchase price 666.6
+ Print using gets
+ DOW - DOW Jones Industrial Average
+ Purchase Price: 10.000000
+ 
+ Print using implicit call to toString
+ International World - INT
+ Purchase Price: 666.6
+ 
+ 
+ USING SET METHODS
+ Please enter the ticker INT
+ Please enter the company name International World
+ Please enter the purchase price 666.6
+ 
+ Print using implicit call to toString already written in the last lab
+ International World - INT
+ Purchase Price: 666.6
+ 
+ CALLING THE EQUALS METHOD
+ The stocks are the same
+ 
+ CALLING THE COMPARETO METHOD
+ bStock is less than or equal to aStock
+ 
+ CALLING THE HASHCODE METHOD
+ Your value will be different than mine
+ The hashCode for bStock is -1118632176
+ 
+  ----jGRASP: operation complete.
+ 
