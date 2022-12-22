@@ -1,0 +1,76 @@
+ 
+  ----jGRASP exec: java lab10.cscd210lab10.CSCD210Lab10
+ Please enter the ticker MICS
+ Please enter the company name Microsoft
+ Please enter the purchase price 10
+ Print using gets
+ DOW - DOW Jones Idustrial Average
+ Purchase Price: 10.000000
+ 
+ Print using implicit call to toString
+ Microsoft-MICS
+ Purchase Price: 10.0
+ 
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab10.cscd210lab10.CSCD210Lab10
+ Please enter the ticker MSFT
+ Please enter the company name Microsoft
+ Please enter the purchase price 123.45
+ Print using gets
+ DOW - DOW Jones Idustrial Average
+ Purchase Price: 10.000000
+ 
+ Print using implicit call to toString
+ Microsoft - MSFT
+ Purchase Price: 123.45
+ 
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab10.cscd210lab10.CSCD210Lab10
+ Please enter the ticker MSFT
+ Please enter the company name Microsoft
+ Please enter the purchase price 123.45
+ Print using gets
+ DOW - DOW Jones Industrial Average
+ Purchase Price: 10.000000
+ 
+ Print using implicit call to toString
+ Microsoft - MSFT
+ Purchase Price: 123.45
+ 
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab10.cscd210lab10.CSCD210Lab10
+ Please enter the ticker MSFT
+ Please enter the company name Microsoft
+ Please enter the purchase price 123.45
+ Print using gets
+ DOW - DOW Jones Industrial Average
+ Purchase Price: 10.000000
+ 
+ Print using implicit call to toString
+ Microsoft - MSFT
+ Purchase Price: 123.45
+ 
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab10.cscd210lab10.CSCD210Lab10
+ Please enter the ticker SGAMY
+ Please enter the company name Sega Sammy Holdings
+ Please enter the purchase price 3.16
+ Print using gets
+ DOW - DOW Jones Industrial Average
+ Purchase Price: 10.000000
+ 
+ Print using implicit call to toString
+ Sega Sammy Holdings - SGAMY
+ Purchase Price: 3.16
+ 
+ 
+  ----jGRASP: operation complete.
+ 
