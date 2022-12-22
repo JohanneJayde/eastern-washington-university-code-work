@@ -1,0 +1,23 @@
+ 
+  ----jGRASP exec: java lab2.cscd210lab2.CSCD210Lab2
+ Please enter your full name: Stu Franken Steiner
+ Please enter your birth year: 1990
+ Please enter a single letter: a
+ The first letter of your name is: S
+ The Last Letter of your name is: r
+ Your middle name is: Franken
+ The hashCode of your name added to the year of 2020 and your birth year 1990 is: -229107648
+ Replacing all the characters of a in your name becomes Stu Fr$nken Steiner
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab2.cscd210lab2.CSCD210Lab2
+ Please enter your full name: Jonah Robert Christian McClenahan
+ Please enter your birth year: 2000
+ Please enter a single letter: C
+ The first letter of your name is: J
+ The Last Letter of your name is: n
+ Your middle name is: Robert Christian
+ The hashCode of your name added to the year of 2020 and your birth year 2000 is: 70450160
+ Replacing all the characters of C in your name becomes Jonah Robert $hristian M$$lenahan
+  ----jGRASP: operation complete.
+ 
