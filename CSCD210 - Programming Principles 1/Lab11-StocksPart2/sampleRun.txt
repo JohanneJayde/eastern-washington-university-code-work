@@ -1,0 +1,35 @@
+ 
+  ----jGRASP exec: java lab11.cscd210lab11.CSCD210Lab11
+ Please enter the ticker MSFT
+ Please enter the company name Microsoft Inc
+ Please enter the purchase price 143.25
+ Print using gets
+ DOW - DOW Jones Industrial Average
+ Purchase Price: 10.000000
+ 
+ Print using implicit call to toString
+ Microsoft Inc - MSFT
+ Purchase Price: 143.25
+ 
+ 
+ USING SET METHODS
+ Please enter the ticker HI
+ Please enter the company name Hillenbrand
+ Please enter the purchase price 12.75
+ 
+ Print using implicit call to toString already written in the last lab
+ Hillenbrand - HI
+ Purchase Price: 12.75
+ 
+ CALLING THE EQUALS METHOD
+ The stocks are NOT the same
+ 
+ CALLING THE COMPARETO METHOD
+ aStock is less than bStock
+ 
+ CALLING THE HASHCODE METHOD
+ Your value will be different than mine
+ The hashCode for bStock is 454626912
+ 
+  ----jGRASP: operation complete.
+ 
