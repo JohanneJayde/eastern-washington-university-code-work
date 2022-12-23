@@ -1,0 +1,161 @@
+ 
+  ----jGRASP exec: java lab1.cscd211lab1.CSCD211Lab1
+ Please enter the name of the file jonh.txt
+ The file does not exist
+ Please enter the name of the file people.txt
+ 1. Print the Array to the screen
+ 2. Display all people that contain a certain color
+ 3. Sort the array by Color
+ 4. Sort the array by the 'natural order'
+ 5. Quit
+ Please enter a choice between 1 and 5: 1
+ Faith Hillstrom, Purple
+ 
+ Sally sue Sullivan, Green
+ 
+ Bubba Von bigbelly, Purple
+ 
+ 1. Print the Array to the screen
+ 2. Display all people that contain a certain color
+ 3. Sort the array by Color
+ 4. Sort the array by the 'natural order'
+ 5. Quit
+ Please enter a choice between 1 and 5: 2
+ Please enter your color: Purple
+ Faith Hillstrom, Purple
+ 
+ Bubba Von bigbelly, Purple
+ 
+ 1. Print the Array to the screen
+ 2. Display all people that contain a certain color
+ 3. Sort the array by Color
+ 4. Sort the array by the 'natural order'
+ 5. Quit
+ Please enter a choice between 1 and 5: 3
+ 1. Print the Array to the screen
+ 2. Display all people that contain a certain color
+ 3. Sort the array by Color
+ 4. Sort the array by the 'natural order'
+ 5. Quit
+ Please enter a choice between 1 and 5: 1
+ Sally sue Sullivan, Green
+ 
+ Faith Hillstrom, Purple
+ 
+ Bubba Von bigbelly, Purple
+ 
+ 1. Print the Array to the screen
+ 2. Display all people that contain a certain color
+ 3. Sort the array by Color
+ 4. Sort the array by the 'natural order'
+ 5. Quit
+ Please enter a choice between 1 and 5: 4
+ 1. Print the Array to the screen
+ 2. Display all people that contain a certain color
+ 3. Sort the array by Color
+ 4. Sort the array by the 'natural order'
+ 5. Quit
+ Please enter a choice between 1 and 5: 1
+ Faith Hillstrom, Purple
+ 
+ Sally sue Sullivan, Green
+ 
+ Bubba Von bigbelly, Purple
+ 
+ 1. Print the Array to the screen
+ 2. Display all people that contain a certain color
+ 3. Sort the array by Color
+ 4. Sort the array by the 'natural order'
+ 5. Quit
+ Please enter a choice between 1 and 5: 2
+ Please enter your color: yelloow
+ Exception in thread "main" java.lang.IllegalArgumentException: color not found in enums
+ 	at lab1.cscd211methods.CSCD211Lab1Methods.convertColor(CSCD211Lab1Methods.java:90)
+ 	at lab1.cscd211methods.CSCD211Lab1Methods.readColor(CSCD211Lab1Methods.java:167)
+ 	at lab1.cscd211lab1.CSCD211Lab1.main(CSCD211Lab1.java:46)
+ 
+  ----jGRASP wedge2: exit code for process is 1.
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java lab1.cscd211lab1.CSCD211Lab1
+ Please enter the name of the file test.txt
+ 1. Print the Array to the screen
+ 2. Display all people that contain a certain color
+ 3. Sort the array by Color
+ 4. Sort the array by the 'natural order'
+ 5. Quit
+ Please enter a choice between 1 and 5: 1
+ Johnny Alonzo, Blue
+ 
+ Sarah Hagg, Red
+ 
+ Alfonzo Henderson, Blue
+ 
+ Manny Jackson, Green
+ 
+ Danny Johnson, Red
+ 
+ 1. Print the Array to the screen
+ 2. Display all people that contain a certain color
+ 3. Sort the array by Color
+ 4. Sort the array by the 'natural order'
+ 5. Quit
+ Please enter a choice between 1 and 5: 2
+ Please enter your color: blue
+ Johnny Alonzo, Blue
+ 
+ Alfonzo Henderson, Blue
+ 
+ 1. Print the Array to the screen
+ 2. Display all people that contain a certain color
+ 3. Sort the array by Color
+ 4. Sort the array by the 'natural order'
+ 5. Quit
+ Please enter a choice between 1 and 5: 4
+ 1. Print the Array to the screen
+ 2. Display all people that contain a certain color
+ 3. Sort the array by Color
+ 4. Sort the array by the 'natural order'
+ 5. Quit
+ Please enter a choice between 1 and 5: 1
+ Johnny Alonzo, Blue
+ 
+ Sarah Hagg, Red
+ 
+ Alfonzo Henderson, Blue
+ 
+ Manny Jackson, Green
+ 
+ Danny Johnson, Red
+ 
+ 1. Print the Array to the screen
+ 2. Display all people that contain a certain color
+ 3. Sort the array by Color
+ 4. Sort the array by the 'natural order'
+ 5. Quit
+ Please enter a choice between 1 and 5: 3
+ 1. Print the Array to the screen
+ 2. Display all people that contain a certain color
+ 3. Sort the array by Color
+ 4. Sort the array by the 'natural order'
+ 5. Quit
+ Please enter a choice between 1 and 5: 1
+ Sarah Hagg, Red
+ 
+ Danny Johnson, Red
+ 
+ Manny Jackson, Green
+ 
+ Johnny Alonzo, Blue
+ 
+ Alfonzo Henderson, Blue
+ 
+ 1. Print the Array to the screen
+ 2. Display all people that contain a certain color
+ 3. Sort the array by Color
+ 4. Sort the array by the 'natural order'
+ 5. Quit
+ Please enter a choice between 1 and 5: 5
+ 
+  ----jGRASP: operation complete.
+ 
