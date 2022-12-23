@@ -1,0 +1,485 @@
+ 
+  ----jGRASP exec: java lab5.cscd211lab5.CSCD211Lab5
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 2
+ Please enter a string: Yooni
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 3
+ Please enter a string: Bernald
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 1
+ [Yooni, Megan, Chad, Megan, Ringo, Johnny, Robert, Megan, Michael, Bernald]
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 4
+ Please enter a string: Trevor
+ Please enter an index value greater than -1: 5
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 5
+ Please enter a string: Trevor
+ The results of contains true
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 6
+ Please enter a string: Trevor
+ The results of indexOf 5
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 7
+ The results from remove Yooni
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 8
+ The results from remove Bernald
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 1
+ [Megan, Chad, Megan, Ringo, Trevor, Johnny, Robert, Megan, Michael]
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 10
+ Please enter a string: Megan
+ The results of contains true
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 1
+ [Chad, Megan, Ringo, Trevor, Johnny, Robert, Megan, Michael]
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 11
+ Please enter a string: Megan
+ The results of contains true
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 1
+ [Chad, Megan, Ringo, Trevor, Johnny, Robert, Michael]
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 12
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 1
+ [ ]
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 14
+ Program ending
+ 
+  ----jGRASP: operation complete.
+
+ 
+  ----jGRASP exec: java lab5.cscd211lab5.CSCD211Lab5
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 5
+ Please enter a string: Benny
+ The results of contains false
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 6
+ Please enter a string: Benny
+ The results of indexOf -1
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 10
+ Please enter a string: Benny
+ The results of contains false
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 11
+ Please enter a string: Benny
+ The results of contains false
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 1
+ [Megan, Chad, Megan, Ringo, Johnny, Robert, Megan]
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 11
+ Please enter a string: Megan
+ The results of contains true
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 1
+ [Megan, Chad, Megan, Ringo, Johnny, Robert]
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 8
+ The results from remove Michael
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 1
+ [Megan, Chad, Megan, Ringo, Johnny]
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 9
+ Please enter an index value greater than -1: 4
+ The results from remove Johnny
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 1
+ [Megan, Chad, Megan, Ringo]
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 13
+ List size: 4
+ 1) Print the List
+ 2) addFirst
+ 3) addLast
+ 4) read and index and add at the index
+ 5) Check the list to see if the list contains the item
+ 6) Find the indexOf the item
+ 7) removeFirst
+ 8) removeLast
+ 9) Read index remove Node at that index
+ 10) removeFirstOccurrence of that item
+ 11) removeLastOccurrence of that item
+ 12) clear the list
+ 13) Print the size of the list
+ 14) Quit
+ Please enter your choice within the range of the menu options: 14
+ Program ending
+ 
+  ----jGRASP: operation complete.
+ 
+ 
