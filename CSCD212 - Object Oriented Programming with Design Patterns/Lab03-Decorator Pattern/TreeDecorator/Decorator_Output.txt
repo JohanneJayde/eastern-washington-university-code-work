@@ -1,0 +1,5 @@
+This three already contains a star!
+Tree1: Fraser Fir decorated with, star, Ruffles, Ruffles, Lights costs $46
+Tree2: Colorado Blue Spruce decorated with, Ruffles, Red Balls, Silver Balls, Ruffles, LEDs costs $66
+Tree3: Balsam Fir decorated with, Ribbons, star, Blue Balls, Ruffles, LEDs costs $44
+Tree4: Douglas Fir decorated with, Ruffles, star, LEDs, Red Balls costs $46
