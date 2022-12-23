@@ -1,0 +1,245 @@
+----jGRASP exec: java lab4.cscd211lab4.CSCD211Lab4
+ Please enter an integer value: 1
+ Please enter an integer value: 2
+ Please enter an integer value: 3
+ Please enter an integer value: 4
+ Please enter an integer value: 5
+ 1) Print the List
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrences
+ 11) clear the list
+ 12) Quit
+ 
+ Please enter a choice within the range of the menu: 1
+ [1, 2, 3, 4, 5]
+ 1) Print the List
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrences
+ 11) clear the list
+ 12) Quit
+ 
+ Please enter a choice within the range of the menu: 2
+ Please enter an integer value: 6
+ 1) Print the List
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrences
+ 11) clear the list
+ 12) Quit
+ 
+ Please enter a choice within the range of the menu: 3
+ Please enter an integer value: 7
+ Please enter an integer value: 8
+ Please enter an integer value: 9
+ Please enter an integer greater or equal to 0: 5
+ 1) Print the List
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrences
+ 11) clear the list
+ 12) Quit
+ 
+ Please enter a choice within the range of the menu: 1
+ [1, 2, 3, 4, 5, 6, 7, 8, 9]
+ 1) Print the List
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrences
+ 11) clear the list
+ 12) Quit
+ 
+ Please enter a choice within the range of the menu: 4
+ Please enter an integer greater or equal to 0: 6
+ The results of get 7
+ 1) Print the List
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrences
+ 11) clear the list
+ 12) Quit
+ 
+ Please enter a choice within the range of the menu: 5
+ The results of getLast 9
+ 1) Print the List
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrences
+ 11) clear the list
+ 12) Quit
+ 
+ Please enter a choice within the range of the menu: 7
+ Please enter an integer greater or equal to 0: 3
+ The results of remove 4
+ 1) Print the List
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrences
+ 11) clear the list
+ 12) Quit
+ 
+ Please enter a choice within the range of the menu: 1
+ [1, 2, 3, 5, 6, 7, 8, 9]
+ 1) Print the List
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrences
+ 11) clear the list
+ 12) Quit
+ 
+ Please enter a choice within the range of the menu: 8
+ The results of removeLast 9
+ 1) Print the List
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrences
+ 11) clear the list
+ 12) Quit
+ 
+ Please enter a choice within the range of the menu: 9
+ 1 2 3 5 6 7 8 
+ 1) Print the List
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrences
+ 11) clear the list
+ 12) Quit
+ 
+ Please enter a choice within the range of the menu: 11
+ 1) Print the List
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrences
+ 11) clear the list
+ 12) Quit
+ 
+ Please enter a choice within the range of the menu: 12
+ Program ending
+ 
+  ----jGRASP: operation complete.
+ 
+ 
+  ----jGRASP exec: java lab4.cscd211lab4.CSCD211Lab4
+ Please enter an integer value: 1
+ Please enter an integer value: 2
+ Please enter an integer value: 3
+ Please enter an integer value: 4
+ Please enter an integer value: 5
+ 1) Print the List
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrences
+ 11) clear the list
+ 12) Quit
+ 
+ Please enter a choice within the range of the menu: 10
+ Please enter an integer value: 3
+ The results of removeAllOccurrences true
+ 1) Print the List
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrences
+ 11) clear the list
+ 12) Quit
+ 
+ Please enter a choice within the range of the menu: 1
+ [1, 2, 4, 5]
+ 1) Print the List
+ 2) Append the specified element to the end of this list
+ 3) addAll(index, array)
+ 4) Read an index and get the data at that index
+ 5) getLast
+ 6) remove
+ 7) removeIndex
+ 8) removeLast
+ 9) toArray
+ 10) removeAllOccurrences
+ 11) clear the list
+ 12) Quit
+ 
+ Please enter a choice within the range of the menu: 
