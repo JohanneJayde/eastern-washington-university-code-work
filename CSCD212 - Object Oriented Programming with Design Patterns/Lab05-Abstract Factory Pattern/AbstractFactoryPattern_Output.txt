@@ -1,4 +1,0 @@
-Inside Rectangle::draw() method.
-Inside Square::draw() method.
-Inside RoundedRectangle::draw() method.
-Inside RoundedSquare::draw() method.
